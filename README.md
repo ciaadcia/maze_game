@@ -1,1 +1,2 @@
-# maze_game
+convert to app
+pyinstaller --onefile maze.py
